@@ -1,0 +1,4 @@
+Alice Smith
+Education: B.S. in Statistics, University of Data
+Experience: 2 years as a Data Analyst at TechCorp. 
+Skills: I am highly proficient in Python, SQL, and Pandas. I have built multiple machine learning models using Scikit-Learn and XGBoost. I also use Tableau for Data Visualization.

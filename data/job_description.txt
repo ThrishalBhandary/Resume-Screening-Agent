@@ -1,0 +1,4 @@
+Role: Junior Data Scientist
+Required Skills: Python, SQL, Machine Learning, Pandas, Scikit-Learn, Data Visualization.
+Experience: 1-2 years of experience in data analysis or modeling.
+Education: Bachelor's degree in Computer Science, Statistics, or Mathematics.
